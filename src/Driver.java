@@ -3,6 +3,6 @@ public class Driver {
         Recursion recursion = new Recursion();
         int[] array = {1,2,3,4,5,6,7,8,9};
 
-        System.out.println("The sum of the list is " + recursion.sum(array, 0));
+        System.out.println("The sum of the list is " + recursion.sum(array, 0)); //i = index of starting point
     }
 }
